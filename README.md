@@ -15,7 +15,7 @@ Feel free to look for me on my social media below:
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="35"/>](https://www.instagram.com/maiaralange/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="35"/>](https://linkedin.com/in/maiara-lange/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=github" alt="Github" width="35"/>](https://github.com/maiaralange)&nbsp;&nbsp;
-[<div ><img src="images/gmail.png" alt="Gmail" width="35"/></div>](mailto:lange.maiara@gmail.com)&nbsp;&nbsp;
+[<img src="images/gmail.png" alt="Gmail" width="35"/>](mailto:lange.maiara@gmail.com)&nbsp;&nbsp;
 
 ---
 
