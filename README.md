@@ -4,7 +4,7 @@
 
 <img src="images/woman-software-engineer.png" width="150" align="right" />
 
-I call São Leopoldo - Brazil my home sweet home. Although my day job involves working with infrastructure and backend, my heart is always in frontend development. It's where my passion lies and where I truly shine. 
+I call São Leopoldo - Brazil my home sweet home. Although my day job involves working with infrastructure and backend, my heart is always in frontend development. It's where my passion lies and where I truly shine.
 
 Currently, I'm living the dream and working as a software engineer at Microsoft. I feel incredibly lucky to be part of such a cool and innovative team!
 
@@ -40,6 +40,7 @@ Feel free to look for me on my social media below:
 [<img src="https://skillicons.dev/icons?i=ts" alt="Typescript" width="35"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=html" alt="HTML 5" width="35"/>](https://en.wikipedia.org/wiki/HTML)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=css" alt="CSS 3" width="35"/>](https://en.wikipedia.org/wiki/CSS)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="35"/>](https://tailwindcss.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="35"/>](https://www.figma.com/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="35"/>](https://jestjs.io/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="35"/>](https://nodejs.org/)&nbsp;&nbsp;
