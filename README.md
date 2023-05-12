@@ -2,8 +2,6 @@
 
 ## 🔖 About me
 
-<img src="images/woman-software-engineer.png" width="150" align="right" />
-
 I call São Leopoldo - Brazil my home sweet home. Although my day job involves working with infrastructure and backend, my heart is always in frontend development. It's where my passion lies and where I truly shine.
 
 Currently, I'm living the dream and working as a software engineer at Microsoft. I feel incredibly lucky to be part of such a cool and innovative team!
@@ -17,7 +15,7 @@ Feel free to look for me on my social media below:
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="35"/>](https://www.instagram.com/maiaralange/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="35"/>](https://linkedin.com/in/maiara-lange/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=github" alt="Github" width="35"/>](https://github.com/maiaralange)&nbsp;&nbsp;
-[<img src="images/gmail.svg" alt="Gmail" width="35"/>](mailto:lange.maiara@gmail.com)&nbsp;&nbsp;
+[<img src="images/gmail.png" alt="Gmail" width="35"/>](mailto:lange.maiara@gmail.com)&nbsp;&nbsp;
 
 ---
 
